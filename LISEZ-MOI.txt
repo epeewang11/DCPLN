@@ -1,0 +1,4 @@
+DCPLN UPLIFT v40
+Installation : héberger ces fichiers dans un même dossier en HTTPS (ou ouvrir index.html tel quel), puis « Ajouter à l'écran d'accueil ».
+Sauvegarde : Profil & Réglages > exporter. Restauration : importer le fichier JSON de la même édition.
+Les données restent dans ce navigateur (stockage local) : ce n'est pas un coffre-fort ; exportez régulièrement.
